@@ -1,0 +1,15 @@
+current directory: /Users/ishiiryu/Desktop/mitakalab-twitter/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+/Users/ishiiryu/.rbenv/versions/2.3.7/bin/ruby -r ./siteconf20190709-7229-q7ftw2.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ishiiryu/Desktop/mitakalab-twitter/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/ishiiryu/Desktop/mitakalab-twitter/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/cruby.bundle
+
+current directory: /Users/ishiiryu/Desktop/mitakalab-twitter/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190709-7229-11w52u0/skiptrace

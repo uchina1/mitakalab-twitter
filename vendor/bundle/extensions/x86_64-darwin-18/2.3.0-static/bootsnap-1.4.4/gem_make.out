@@ -1,0 +1,15 @@
+current directory: /Users/ishiiryu/Desktop/mitakalab-twitter/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+/Users/ishiiryu/.rbenv/versions/2.3.7/bin/ruby -r ./siteconf20190709-7229-1y9ev6b.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ishiiryu/Desktop/mitakalab-twitter/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/ishiiryu/Desktop/mitakalab-twitter/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/ishiiryu/Desktop/mitakalab-twitter/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20190709-7229-1u9m9ls/bootsnap
